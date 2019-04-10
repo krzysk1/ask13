@@ -1,0 +1,17 @@
+<[file][][]
+    <[modelmanager][][]
+        <[pointer_list_tmuniverse][DynamicObjects][]
+
+            // trim
+            <[input_default][PitchTrim][0]
+                <[float64][Value][-0.02]>
+            >
+            <[input_default][AileronTrimInput][0]
+                <[float64][Value][0.01]>
+            >
+            <[servoclassic][AileronTrim][0]
+                <[float64][Position][0.01]>
+            >
+        >
+    >
+>

@@ -1,0 +1,14 @@
+<[file][][]
+    <[modelmanager][][]
+        <[pointer_list_tmuniverse][DynamicObjects][]
+
+            // trim
+            <[input_default][PitchTrim][155]
+                <[float64][Value][-0.284]>
+            >
+            <[servoclassic][ServoElevator][0]
+                <[float64][Position][-0.039]>
+            >
+        >
+    >
+>
