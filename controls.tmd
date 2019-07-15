@@ -17,7 +17,7 @@
                 <[float64][Radius][0.006]>
                 <[float64][Length][0.01]>
             >
-			//vario volume		
+			//COM1 volume		
             <[control_cylinder][COM1Volume][0]
                 <[string8][Type][knob]>
                 <[vector3_float64][R0][ 1.942 -0.0 0.2129 ]>

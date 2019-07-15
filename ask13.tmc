@@ -1,10 +1,10 @@
 <[file][][]
     <[object][][]
         <[int][Version][210]>
-        <[vec32array][ContactSpheres][ (1.7 0.0 -0.426 0.04) (0.09 0.0 -0.2834 0.1842 ) (-4.5730 0.0 0.218 0.04) (1.0660 -7.95 0.99 0.04) (1.0660 7.95 0.99 0.04) ]>
+        <[vec32array][ContactSpheres][ (1.7 0.0 -0.426 0.04) (0.089 0 -0.283 0.184) (1.0660 -7.95 0.99 0.04) (1.0660 7.95 0.99 0.04) ]>
         <[string8][DisplayName][Schleicher ASK 13]>
         <[string8][DescriptionTextEN][The ASK 13 is a two-seater glider that was built by Alexander Schleicher. It was and still is widely used for ab-initio training of glider pilots. 
-Converted from FlightGear by Krzysztof Kaniewski, Original 3D model made by Patrice Poly.]>
+Converted from FlightGear by Krzysztof Kaniewski. Original 3D model made by Patrice Poly.]>
 		<[float64][WingSpan][16.0]>
 		<[float64][Mass][295.0]>
 		<[float64][MaximumSpeed][54.0]>
