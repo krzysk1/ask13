@@ -45,7 +45,7 @@
             <[rigidbody][Fuselage][]
                 <[float64][Mass][89.6]>
                 <[tmvector3d][InertiaLength][6.327 1.0 1.0]>
-                <[tmvector3d][R0][-0.6 0 0.25]>
+                <[tmvector3d][R0][-0.7 0 0.25]>
                 <[tmmatrix3d][B0][1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0]>
             >
             <[rigidbody][LeftWing][]
@@ -110,9 +110,9 @@
             >
             <[rigidbody][StudentBody]][]
                 <[float64][Mass][65.8]>
-                <[tmvector3d][InertiaLength][ 0.5 0.5 0.7 ]>
+                <[tmvector3d][InertiaLength][ 0.4 0.4 0.7 ]>
                 <[tmvector3d][R0][1.312 0 0.061]>
-                <[tmmatrix3d][B0][1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0]>
+                <[tmmatrix3d][B0][ 0.984808 0.0 0.173648 0.0 1.0 0.0 -0.173648 0.0 0.984808 ]>
             >
             <[multibody_joint][JointFuselageStudentBody][]
                 <[string8][Body0][Fuselage]>
@@ -125,9 +125,9 @@
             >
             <[rigidbody][InstructorBody][]
                 <[float64][Mass][65.8]>
-                <[tmvector3d][InertiaLength][ 0.5 0.5 0.7 ]>
+                <[tmvector3d][InertiaLength][ 0.4 0.4 0.7 ]>
                 <[tmvector3d][R0][0.433 0 0.215]>
-                <[tmmatrix3d][B0][1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0]>
+                <[tmmatrix3d][B0][ 0.984808 0.0 0.173648 0.0 1.0 0.0 -0.173648 0.0 0.984808 ]>
             >
             <[multibody_joint][JointFuselageInstructorBody][]
                 <[string8][Body0][Fuselage]>
